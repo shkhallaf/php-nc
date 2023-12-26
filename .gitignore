@@ -1,0 +1,4 @@
+*.pdf
+!test.pdf
+hello.txt
+module/*
